@@ -5,7 +5,7 @@
 
 <div align="center">
   <br/>
-  <h3>Hi there, I'm Nguyễn Thanh Tiến! </h3>
+  <h3>Hi there, I'm Nguyễn Thanh Tiến!</h3>
 </div>
 <h3 align="center">
   🎨 Frontend Developer • Creative Developer • Web Enthusiast
@@ -35,7 +35,7 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   **responsive, accessible, and thoughtfully built.**
 
   Right now, I'm developing expertise in **React, Next.js, and TypeScript**, 
-  while  exploring Web 3D and Motion Design to level up UI interaction.
+  while exploring Web 3D and Motion Design to level up UI interaction.
  
 
 </div>
@@ -76,7 +76,6 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
 
 ### Tech Stack & Tools
 
-<!-- Main -->
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -84,7 +83,6 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-<!-- Frontend -->
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -93,7 +91,6 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 </p>
 
-<!-- Backend -->
 <p>
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -101,7 +98,6 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </p>
-<!-- Tools -->
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white" />
@@ -114,8 +110,8 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   --- 
 </div>
 <div align="center">
-  <h3>Featured Project</h3>
-  <i>Here are some of the projects I'm proud of:</i>
+  <h3>Featured Projects</h3>
+  <i>Here are some highlighted projects. For more, please visit my Portfolio!</i>
   <br/><br/>
 </div>
 
@@ -154,23 +150,14 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
 - **Links:** [Live Demo](https://beefbeefrestaurant.io.vn/) • [Source Code](https://gitlab.com/graduationproject3900751/BeefBeef-Restaurant)
 
 <br/>
----
-<br/>
+<div align="center">
+  <br/>
+  <a href="https://finnng.io.vn/">
+    <img src="https://img.shields.io/badge/_View_More_Projects_on_My_Portfolio-2094F3?style=for-the-badge" alt="View Portfolio" />
+  </a>
+  <br/>
+</div>
 
-### Finnng's Digital Space
-*(Personal Portfolio & Playground)*
-
-<img src="assets/images/portfolio.jpg" width="100%" style="border-radius: 8px;" alt="Personal Portfolio" />
-
-<br/>
-
-- **Overview:** A modern, high-performance personal website designed to showcase my projects and technical journey. Focuses on **minimalist aesthetics**, **clean code structure**, and **SEO optimization**.
-- **Key Features:**
-  - **UI/UX:** Dark/Light mode toggle, Fully Responsive layout for all devices.
-  - **Performance:** 100/100 Lighthouse score, Server-side Rendering (SSR) with Next.js.
-  - **Showcase:** Central hub for projects and blogs.
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS.
-- **Links:** [Live Demo](https://finnng.io.vn/) • [Source Code](https://github.com/Finnng1104/portfolio)
 <div align="center">
   --- 
 </div>
