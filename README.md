@@ -114,19 +114,63 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
   --- 
 </div>
 <div align="center">
-
-  ### Featured Project
-  <div align="left">
-  Here are some of the projects I'm proud of:
-  </div>
-
- | **Project Showcase**                                                                                                           | **Description & Tech Stack**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
- | :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
- | <img src="assets/images/robot.jpg" width="100%" style="border-radius: 8px; min-width: 250px;" alt="Autonomous Car" />          | **Autonomous Driving Car** <br/>*(Runner-up at FPT Hackathon 2025)*<br/><br/>**Overview**<br/>Developed an intelligent autonomous vehicle system capable of pathfinding and obeying traffic rules on a simulated map.<br/><br/>**Key Features**<br/>• **Pathfinding:** Optimized route planning using **BFS/DFS algorithms** based on coordinate data.<br/>• **Computer Vision:** Trained AI models for real-time **Traffic Sign Recognition**.<br/>• **Embedded Control:** Handled motor control and sensor signal processing.<br/><br/>**Tech Stack**<br/>C++, Python, OpenCV, **Arduino (Embedded)**, **Raspberry Pi (Linux)**.<br/><br/>**Status**<br/>*Hardware Project (Offline Competition)*                                                                                                                                                                                                                                                           |
- | <img src="assets/images/beef_home.jpg" width="100%" style="border-radius: 8px; min-width: 250px;" alt="BeefBeef Restaurant" /> | **BeefBeef Restaurant & Bar** <br/>*(Graduation Thesis / Capstone Project)*<br/><br/>**Overview**<br/>A comprehensive full-stack restaurant management system, streamlining operations from Table Reservation, Ordering to Inventory Management.<br/><br/>**My Contributions (Frontend Lead)**<br/>• **System Design:** Designed Database schema & Frontend architecture/folder structure.<br/>• **UI/UX Design:** Created high-fidelity prototypes using **Figma** ensuring responsive design.<br/>• **Full-stack Dev:** Implemented end-to-end features: **Advanced Search, Filter, Pagination**, and Wishlist logic.<br/><br/>**Key Features**<br/>Table Booking • Payment Gateway • Invoice Export • Warehouse Management.<br/><br/>**Tech Stack**<br/>React.js, Node.js, Express, MongoDB, Figma.<br/><br/>**Links**<br/>[Live Demo](https://beefbeefrestaurant.io.vn/) • [Source Code](https://gitlab.com/graduationproject3900751/BeefBeef-Restaurant) |
- | <img src="assets/images/portfolio.jpg" width="100%" style="border-radius: 8px; min-width: 250px;" alt="Personal Portfolio" />  | **🎨 Finnng's Digital Space** <br/>*(Personal Portfolio & Playground)*<br/><br/>**Overview**<br/>A modern, high-performance personal website designed to showcase my projects and technical journey. Focuses on **minimalist aesthetics**, **clean code structure**, and **SEO optimization**.<br/><br/>**Key Features**<br/>• **UI/UX:** Dark/Light mode toggle, Fully Responsive layout for all devices.<br/>• **Performance:** 100/100 Lighthouse score, Server-side Rendering (SSR) with Next.js.<br/>• **Showcase:** Central hub for projects and blogs.<br/><br/>**Tech Stack**<br/>Next.js, TypeScript, Tailwind CSS.<br/><br/>**Links**<br/>[Live Demo](https://finnng.io.vn/) • [Source Code](https://github.com/Finnng1104/portfolio)                                                                                                                                                                                                                |  |
-
+  <h3>Featured Project</h3>
+  <i>Here are some of the projects I'm proud of:</i>
+  <br/><br/>
 </div>
+
+### Autonomous Driving Car
+*(Runner-up at FPT Hackathon 2025)*
+
+<img src="assets/images/robot.jpg" width="100%" style="border-radius: 8px;" alt="Autonomous Car" />
+
+<br/>
+
+- **Overview:** Developed an intelligent autonomous vehicle system capable of pathfinding and obeying traffic rules on a simulated map.
+- **Key Features:**
+  - **Pathfinding:** Optimized route planning using **BFS/DFS algorithms** based on coordinate data.
+  - **Computer Vision:** Trained AI models for real-time **Traffic Sign Recognition**.
+  - **Embedded Control:** Handled motor control and sensor signal processing.
+- **Tech Stack:** C++, Python, OpenCV, **Arduino (Embedded)**, **Raspberry Pi (Linux)**.
+- **Status:** *Hardware Project (Offline Competition)*
+
+<br/>
+---
+<br/>
+
+### BeefBeef Restaurant & Bar
+*(Graduation Thesis / Capstone Project)*
+
+<img src="assets/images/beef_home.jpg" width="100%" style="border-radius: 8px;" alt="BeefBeef Restaurant" />
+
+<br/>
+
+- **Overview:** A comprehensive full-stack restaurant management system, streamlining operations from Table Reservation to Inventory Management.
+- **My Contributions (Frontend Lead):**
+  - **System Design:** Designed Database schema & Frontend architecture/folder structure.
+  - **UI/UX Design:** Created high-fidelity prototypes using **Figma** ensuring responsive design.
+  - **Full-stack Dev:** Implemented end-to-end features: **Advanced Search, Filter, Pagination**, and Wishlist logic.
+- **Tech Stack:** React.js, Node.js, Express, MongoDB, Figma.
+- **Links:** [Live Demo](https://beefbeefrestaurant.io.vn/) • [Source Code](https://gitlab.com/graduationproject3900751/BeefBeef-Restaurant)
+
+<br/>
+---
+<br/>
+
+### Finnng's Digital Space
+*(Personal Portfolio & Playground)*
+
+<img src="assets/images/portfolio.jpg" width="100%" style="border-radius: 8px;" alt="Personal Portfolio" />
+
+<br/>
+
+- **Overview:** A modern, high-performance personal website designed to showcase my projects and technical journey. Focuses on **minimalist aesthetics**, **clean code structure**, and **SEO optimization**.
+- **Key Features:**
+  - **UI/UX:** Dark/Light mode toggle, Fully Responsive layout for all devices.
+  - **Performance:** 100/100 Lighthouse score, Server-side Rendering (SSR) with Next.js.
+  - **Showcase:** Central hub for projects and blogs.
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS.
+- **Links:** [Live Demo](https://finnng.io.vn/) • [Source Code](https://github.com/Finnng1104/portfolio)
 <div align="center">
   --- 
 </div>
@@ -161,5 +205,4 @@ I’m a Frontend Developer focused on crafting smooth, intuitive, and high-perfo
 <a href="#top">
   <img src="https://img.shields.io/badge/Back_to_Top- gradient?style=for-the-badge&logo=chevron-up&logoColor=white" />
 </a>
-</div>
 </div>
