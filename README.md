@@ -5,7 +5,7 @@
 
 <div align="center">
   <br/>
-  <b style="font-size: 28px;">Hi there, I'm Nguyễn Thanh Tiến!</b>
+  <h3>Hi there, I'm Nguyễn Thanh Tiến! </h3>
 </div>
 <h3 align="center">
   🎨 Frontend Developer • Creative Developer • Web Enthusiast
